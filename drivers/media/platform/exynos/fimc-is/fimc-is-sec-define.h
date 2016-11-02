@@ -108,7 +108,7 @@
 #define FIMC_IS_SETFILE_VER_OFFSET		0x40
 #define FIMC_IS_SETFILE_VER_SIZE		52
 
-#define FIMC_IS_CAL_SDCARD			"/data/cal_data.bin"
+#define FIMC_IS_CAL_SDCARD			"/data/misc/media/cal_data.bin"
 
 /*#define FIMC_IS_MAX_CAL_SIZE			(20 * 1024)*/
 #define FIMC_IS_MAX_FW_SIZE			(2048 * 1024)
